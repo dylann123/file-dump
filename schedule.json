@@ -1,0 +1,34 @@
+{
+    "1": {
+        "class": "Physics HN",
+        "room": "sci oly room lol"
+    },
+    "2": {
+        "class": "AP Psychology",
+        "room": "Trailer 2"
+    },
+    "3": {
+        "class": "Returns",
+        "room": ""
+    },
+    "4": {
+        "class": "AB Calculus",
+        "room": "A-something"
+    },
+    "5": {
+        "class": "French 3",
+        "room": "gee two ten"
+    },
+    "6": {
+        "class": "US VA History HN",
+        "room": "maaan idk somewhere near mr wright"
+    },
+    "7": {
+        "class": "Data Structures",
+        "room": "dr oberle"
+    },
+    "8": {
+        "class": "English HN",
+        "room": "a206"
+    }
+}
